@@ -1,5 +1,5 @@
-# Tienda Marolio
-Este es un proyecto de ecommerce básico que se utiliza para el curso de React en Coderhouse. La aplicación me permite ver una lista de productos de supermercado y realizar compras en línea. Los productos y las órdenes de compra se almacenan en Firebase. 
+# Tienda NicoHardwares
+Este es un proyecto de e-commerce básico que se utiliza para el curso de React en Coderhouse. La aplicación me permite ver una lista de productos de supermercado y realizar compras en línea. Los productos y las órdenes de compra se almacenan en Firebase. 
 
 ## Tecnologías utilizadas. 
 - React
