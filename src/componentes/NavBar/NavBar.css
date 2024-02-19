@@ -1,0 +1,20 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    height: 80px;
+    position: sticky;
+    top: 0;
+}
+
+li {
+    margin: 16px;
+    display: inline-block;
+}
+
+.numerito,li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: aliceblue;
+}

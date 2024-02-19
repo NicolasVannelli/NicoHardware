@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.compras {
+    height: 100vh;
+    background-color: #d8d6d6;
+}
+
+.btn2 {
+    background-color: #EB302D;
+    color: #FAFAFA;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin-left: 48%;
+}
